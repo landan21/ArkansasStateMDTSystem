@@ -7,4 +7,4 @@ the files you need are stated Here :
 
 3. style.css
 
-Put all of them in a ---> (Folder) 📁 On your ---> (Desktop)🖥️ Name the (Folder) 📁 ~(POLICE_MDT)~
+Put all of them in a ---> (Folder) 📁 On your ---> (Desktop)🖥️ Name the (Folder) 📁 (POLICE_MDT)
