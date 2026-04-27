@@ -1,6 +1,7 @@
-This is the link to the website that was uplaoded to this repository https://landan21.github.io/ArkansasStateMDTSystem/ : The MDT is (FOR ROLEPLAY AND ROLEPLAY ONLY) it should be used as a RP tool and nothing else. 
-The files are free to downald and edit to make the mdt how you like Make sure to downald all three files and put them in a folder on you desktop 
-the files you need are stated Here :
+This is the link to the website uploaded to this repository:
+
+All files are free to download and modify so you can customize the MDT to your preference. Be sure to download all three required files and place them together in a folder on your desktop. 
+The necessary files and instructions are listed below:
 1. app.js
 
 2. index.html
